@@ -1,0 +1,30 @@
+% Load the data from the NFL Combine and pro day data file
+% using the read table tool.
+
+
+% View a summary of the data in the table using the summary 
+% function. 
+
+
+% Calculate summary statistics for the timed variables in the
+% database using appropriate functions. (Shuttle, 40, 3 cone)
+
+
+% Create a histogram showing all three distributions for these
+% timed variables. Make sure to label your figure and add a legend. 
+
+
+% Create a scatter plot in a new figure showing the relationship 
+% between 40 yard dash performance and shuttle time).
+
+
+% Calculate the correlation coefficient between these two variables.
+
+
+% If your correlation coefficient indicates a strong relationship,
+% fit a linear model to your data and calculate the coefficient of
+% variation (r-squared). Plot your model on your scatterplot. 
+
+
+% Run a t-test to determine if there is a difference in means between
+% the 40 yard dash and the shuttle run. 
